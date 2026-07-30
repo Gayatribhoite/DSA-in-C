@@ -4,3 +4,5 @@ A collection of data structure and algorithms implemented in C,including sorting
 1.linear search
 
 2.hello world
+
+3.stack
