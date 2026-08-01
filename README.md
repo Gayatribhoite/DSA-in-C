@@ -8,3 +8,5 @@ A collection of data structure and algorithms implemented in C,including sorting
 3.stack
 
 4.even_odd
+
+5.array
