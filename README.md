@@ -11,4 +11,4 @@ A collection of data structure and algorithms implemented in C,including sorting
 
 5.array
 
-6.factorial
+6.Factorial
