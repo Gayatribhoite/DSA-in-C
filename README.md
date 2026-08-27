@@ -14,3 +14,5 @@ A collection of data structure and algorithms implemented in C,including sorting
 6.Factorial
 
 7.infix_to_postfix.c
+
+8.binary_search.c
